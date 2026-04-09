@@ -1,16 +1,13 @@
-## Hi there 👋
+## Merhaba, ben Şükrü Can Kılıç!
 
-<!--
-**sukrucankilic/sukrucankilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hakkımda
+Pamukkale Üniversitesi, Elektrik-Elektronik Mühendisliği mezunuyum ve Gömülü Sistemler üzerinde kariyer yapmak istiyorum. Yaptığım projeler ile kendimi geliştirmeye devam ediyorum.
 
-Here are some ideas to get you started:
+- ARM Cortex tabanlı mikrodenetleyiciler, **C/C++** ve **FreeRTOS** konularında kendimi geliştiriyorum.
+- Fırçasız motor sürücüleri ve FOC konusunda deneyim sahibiyim.
+- Bana ulaşmak için: **sukrucankilic23@gmail.com** veya **https://www.linkedin.com/in/sukrucankilic/**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projelerim
+- Platform bağımsız sensör sürücüleri
+- 2kW fırçasız motor sürücüsü tasarımı ve six-step komütasyonlu sürücü yazılımı
+- KiCAD üzerinden 48V ve 20A'lik batarya yönetim birimi tasarımı
